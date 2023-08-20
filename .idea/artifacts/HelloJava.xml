@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HelloJava">
+    <output-path>$PROJECT_DIR$/out/artifacts/HelloJava</output-path>
+    <root id="archive" name="HelloJava.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="01_HelloJavaEE" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="01_HelloJavaEE/web/Web" />
+    </root>
+  </artifact>
+</component>
